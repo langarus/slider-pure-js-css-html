@@ -15,7 +15,6 @@ function changeImage(value){
     i === 1 ? i = 4 : i--
     sliderImage.src = directoryLocation + i + ".jpg"
   }
-  console.log(i)
 }
 
 //using async and promise to change the image making timeout syncronous
