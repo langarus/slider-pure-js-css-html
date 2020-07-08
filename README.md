@@ -12,3 +12,5 @@ I've made this slider to be able to use it across multiple projects
 
 ## For future versions:
 1. At this point I'm usign Line Awesome for buttons, that can be improved to some locally stored buttons
+
+See [LIVE VERSION HERE](https://langarus.github.io/slider-pure-js-css-html/.)
